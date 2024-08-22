@@ -1,4 +1,3 @@
-# sharkchow.github.io
 
 ## 港岛一日游：历史与自然的碰撞
 
@@ -36,11 +35,6 @@
 * **携带防晒霜和帽子:** 山顶阳光充足。
 * **注意交通安全:** 过马路时要小心。
 * **提前规划路线:** 可以使用Google地图或其他导航软件。
-* https://youtu.be/cptY-j2z-WE?si=YWnnT5YlDj8j01Hd
-
-https://github.com/user-attachments/assets/48f0e7d5-c919-4ffe-809f-fea819426ca7
-
-https://github.com/user-attachments/assets/978f070f-af91-4147-b716-f1727f8d4887
 
 [![香港山顶西高山](https://i.ytimg.com/vi/cptY-j2z-WE/maxresdefault.jpg)](https://youtu.be/cptY-j2z-WE?si=QBrq2vV5o9n4EngD "香港山顶西高山")
 

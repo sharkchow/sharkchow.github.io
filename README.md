@@ -36,6 +36,7 @@
 * **注意交通安全:** 过马路时要小心。
 * **提前规划路线:** 可以使用Google地图或其他导航软件。
 
+**观看本视频需要开启VPN**
 [![香港山顶西高山](https://i.ytimg.com/vi/cptY-j2z-WE/maxresdefault.jpg)](https://youtu.be/cptY-j2z-WE?si=QBrq2vV5o9n4EngD "香港山顶西高山")
 
-[![薛之谦演员MV](https://i.ytimg.com/vi/cptY-j2z-WE/maxresdefault.jpg)](https://github.com/user-attachments/assets/48f0e7d5-c919-4ffe-809f-fea819426ca7 "薛之谦 MVMV")
+

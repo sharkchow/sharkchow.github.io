@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkchow&theme=highcontrast&show_icons=true)
 ## 港岛一日游：历史与自然的碰撞
 
 ### 行程安排

@@ -52,8 +52,8 @@
 <a href="https://github.com/sharkchow/sharkchow.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/sharkchow/phantom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />

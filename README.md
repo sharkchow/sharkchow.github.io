@@ -1,4 +1,4 @@
-![海滩露营Camping](https://imgshark2.dns.army/file/7223671e57c4300b2b102.jpg)
+
 ## 港岛一日游：历史与自然的碰撞
 
 ### 行程安排
@@ -38,13 +38,6 @@
 
 **观看本视频需要开启VPN**
 [![香港山顶西高山](https://i.ytimg.com/vi/cptY-j2z-WE/maxresdefault.jpg)](https://youtu.be/cptY-j2z-WE?si=QBrq2vV5o9n4EngD "香港山顶西高山")
-
-<table>
-  <tr>
-    <td><img src="https://imgshark2.dns.army/file/7223671e57c4300b2b102.jpg" alt="图片1"></td>
-    <td><img src="https://imgshark2.dns.army/file/0976d7e3a418b10a3c254.jpg" alt="图片2"></td>
-  </tr>
-</table>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![五一搭帐篷](https://ytcards.demolab.com/?id=Sjk-ho6hqnQ&title=%E4%BA%94%E4%B8%80%E6%90%AD%E5%B8%90%E7%AF%B7&lang=en&timestamp=1715157730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "五一搭帐篷")](https://www.youtube.com/watch?v=Sjk-ho6hqnQ)

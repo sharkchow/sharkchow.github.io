@@ -1,5 +1,4 @@
-### HI！Welcome to my github
-   math-union-shape 
+
 ## 港岛一日游：历史与自然的碰撞
 
 ### 行程安排

@@ -47,3 +47,14 @@
 [![2024年4月3日](https://ytcards.demolab.com/?id=O6YXNLk0RYg&title=2024%E5%B9%B44%E6%9C%883%E6%97%A5&lang=en&timestamp=1712128028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2024年4月3日")](https://www.youtube.com/watch?v=O6YXNLk0RYg)
 [![2024年4月3日](https://ytcards.demolab.com/?id=myqygdP6Fc4&title=2024%E5%B9%B44%E6%9C%883%E6%97%A5&lang=en&timestamp=1712126687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2024年4月3日")](https://www.youtube.com/watch?v=myqygdP6Fc4)
 <!-- END YOUTUBE-CARDS -->
+
+
+<a href="https://github.com/sharkchow/sharkchow.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />

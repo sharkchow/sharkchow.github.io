@@ -50,10 +50,10 @@
 
 
 <a href="https://github.com/sharkchow/sharkchow.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io&theme=buefy" />
 </a>
-<a href="https://github.com/sharkchow/phantom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/sharkchow/sharkchow.github.io/phantom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io/phantom&theme=buefy" />
 </a>
 
 <br />

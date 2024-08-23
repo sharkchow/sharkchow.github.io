@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkchow&theme=highcontrast&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkchow&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkchow&theme=highcontrast&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkchow&layout=donut)](https://github.com/sharkchow/github-readme-stats)
 ## 港岛一日游：历史与自然的碰撞
 
 ### 行程安排

@@ -1,4 +1,4 @@
-
+![海滩露营Camping](https://imgshark2.dns.army/file/7223671e57c4300b2b102.jpg)
 ## 港岛一日游：历史与自然的碰撞
 
 ### 行程安排

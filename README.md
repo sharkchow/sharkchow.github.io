@@ -52,7 +52,7 @@
 <a href="https://github.com/sharkchow/sharkchow.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io&theme=buefy" />
 </a>
-<a href="https://github.com/sharkchow.github.io/phantom">
+<a href="https://sharkchow.github.io/phantom/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io/phantom&theme=buefy" />
 </a>
 

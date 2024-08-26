@@ -49,12 +49,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-<a href="https://github.com/sharkchow/sharkchow.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io&theme=buefy" />
-</a>
-<a href="https://sharkchow.github.io/phantom/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharkchow&repo=sharkchow.github.io/phantom&theme=buefy" />
-</a>
-
-<br />
-<br />
+<div align="center">
+  <img src="https://your-infographics-url.com/your-image.png" alt="关于我" />
+</div>

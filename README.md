@@ -49,4 +49,21 @@
 <!-- END YOUTUBE-CARDS -->
 
 
+### Hi there 👋, i am shark
+#### 喜欢徒步远足 车Camping
+![喜欢徒步远足 车Camping](https://telegra.ph/file/90b095359077bfdf6fd72.png)
+
+### 深圳户外爱好者
+
+我是生活在深圳的一名户外运动爱好者。周末的时光，我更愿意背上背包，走进山林，感受大自然的清新空气。从梧桐山到七娘山，深圳周边的小山小水都留下了我的足迹。
+
+除了徒步，我还喜欢自驾游，在周末或假期里，开着我的爱车，和朋友们一起到附近的营地露营。围坐在篝火旁，听虫鸣鸟叫，是一件非常惬意的事情。
+
+Skills: Hiking Camping 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 

@@ -49,6 +49,4 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-<div align="center">
-  <img src="[https://your-infographics-url.com/your-image.png](https://www.youtube.com/@i.sharkchanel1896)" alt="关于我" />
-</div>
+

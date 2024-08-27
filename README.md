@@ -79,4 +79,26 @@ alt="IMAGE ALT TEXT HERE" width="220" height="145" border="10" /></a>
 
 
 
+### Hi there 👋, shark
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://telegra.ph/file/90b095359077bfdf6fd72.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Markdown/Hiking/Camping/Car
+
+- 🔭 I’m currently working on sharkchow.github.io 
+- 📫 How to reach me: shark2hk@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharkchow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i.sharkchanel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCFtwYujC7zbzR-kdFfy7mpA)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sharkchow/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sharkchow)  
+
+
+
+
+
 

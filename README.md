@@ -71,10 +71,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=L1Laqzoih_o
 " target="_blank"><img src="http://img.youtube.com/vi/L1Laqzoih_o/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=YZKBo3XkhQk&t=3s
-" target="_blank"><img src="http://img.youtube.com/vi/YZKBo3XkhQk&t=3s/0.jpg" 
+<a href="https://www.youtube.com/watch?v=pBbLvDnNyhY
+" target="_blank"><img src="http://img.youtube.com/vi/pBbLvDnNyhY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 - 🔭 I’m currently working on this page. 
 
 

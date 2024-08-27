@@ -61,7 +61,11 @@
 
 Skills: Hiking Camping 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/paqh5d9O47s/0.jpg)](https://www.youtube.com/watch?v=paqh5d9O47s)
+### 👓My Youtube Chanel
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/paqh5d9O47s/0.jpg)](https://www.youtube.com/watch?v=paqh5d9O47s)▶▶
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NNkf1hdAPE0/0.jpg)](https://www.youtube.com/watch?v=NNkf1hdAPE0)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/g8U1qnR93x0/0.jpg)](https://www.youtube.com/watch?v=g8U1qnR93x0)
+
 
 - 🔭 I’m currently working on this page. 
 

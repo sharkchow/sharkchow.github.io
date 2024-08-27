@@ -61,6 +61,8 @@
 
 Skills: Hiking Camping 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/paqh5d9O47s/0.jpg)](https://www.youtube.com/watch?v=paqh5d9O47s)
+
 - 🔭 I’m currently working on this page. 
 
 

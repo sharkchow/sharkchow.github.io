@@ -50,7 +50,7 @@
 
 
 ### Hi there 👋, i am shark
-#### 喜欢徒步远足 车Camping
+#### 喜欢Hiking Camping 
 ![喜欢徒步远足 车Camping](https://telegra.ph/file/90b095359077bfdf6fd72.png)
 
 ### 深圳户外爱好者

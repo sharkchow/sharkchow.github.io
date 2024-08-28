@@ -115,3 +115,7 @@ Skills: Markdown/Hiking/Camping/Car
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,markdown,ubuntu,gmail,docker,c,vim,html,java,vscode,workers,wordpress" />
   </a>
 </p>
+
+<html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1Laqzoih_o?si=12scymYznvw0L7qJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</html>

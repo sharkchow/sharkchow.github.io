@@ -110,3 +110,8 @@ Skills: Markdown/Hiking/Camping/Car
 
 <br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,apple,git,markdown,ubuntu,gmail,docker,c,vim,html,java,vscode,workers,wordpress" />
+  </a>
+</p>

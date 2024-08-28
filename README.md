@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharkchow.github.io" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hi+Welcome+To+My+Github+README!+👋;+I'm+Shark+Chow!;+👓希望在github上+和你一起分享交流" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=8000&lines=Hi+Welcome+To+My+Github+README!+👋;+I'm+Shark+Chow!;+👓希望在github上+和你一起分享交流" />
 </h1>
 
 <h3 align="center">A personal log of hiking, camping, and car camping trips in the Greater Bay Area of China.</h3>

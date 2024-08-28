@@ -76,7 +76,7 @@ alt="IMAGE ALT TEXT HERE" width="200" height="120" border="12" /></a>
 alt="IMAGE ALT TEXT HERE" width="200" height="120" border="12" /></a>
 - 🔭 I’m currently working on this page. 
 
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sharkchow)  
 
 ### Hi there 👋, shark
 #### I am GitHub Readme Generator's creator
@@ -92,7 +92,7 @@ Skills: Markdown/Hiking/Camping/Car
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharkchow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i.sharkchanel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCFtwYujC7zbzR-kdFfy7mpA)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sharkchow)  
+
 
 <p align="center"><a href="https://sharkchow.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/deformed-bad-anatomy-disfigured-poorly-drawn-face-mutation-mutated-extra-limb-ugly-disgustin-554081771.png" /></a></p>
 

@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharkchow.github.io" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+Welcome👋;+I'Shark+Chow!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+Welcome👋;+I'Shark+Chow!;+在githhub+和你一起+分享" />
 </h1>
 
 <h3 align="center">The pages is Github README AND Markdown </h3>
@@ -20,7 +20,7 @@
 * **半山扶梯:** 乘坐世界上最长的户外有盖扶梯，欣赏维多利亚港的壮丽景色。
 
 #### 中午：中环美食
-* **兰芳园:** 品尝地道的港式丝袜奶茶和菠萝油。W
+* **兰芳园:** 品尝地道的港式丝袜奶茶和菠萝油。
 * **镛记酒家:** 享用正宗的粤菜。
 
 #### 下午：山顶风光

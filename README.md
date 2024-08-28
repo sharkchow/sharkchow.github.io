@@ -1,13 +1,13 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharkchow.github.io" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+Welcome+To My+README👋;+I'Shark+Chow!;+👓希望在github上+和你一起分享交流;"  />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hi+Welcome+To+My+Github+README!+👋;+I'm+Shark+Chow!;+👓希望在github上+和你一起分享交流" />
 </h1>
 
-<h3 align="center">The pages is Github README AND Markdown </h3>
+<h3 align="center">A personal log of hiking, camping, and car camping trips in the Greater Bay Area of China.</h3>
 
 <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkchow&theme=highcontrast&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkchow&layout=donut)](https://github.com/sharkchow/github-readme-stats)
 ## 港岛一日游：历史与自然的碰撞

@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sharkchow.github.io" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+Welcome+To My+README👋;+I'Shark+Chow!;+👓希望在github上+和你一起分享交流" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+Welcome+To My+README👋;+I'Shark+Chow!;+👓希望在github上+和你一起分享交流 />
 </h1>
 
 <h3 align="center">The pages is Github README AND Markdown </h3>

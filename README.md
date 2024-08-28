@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=8000&lines=Hi+Welcome+To+My+Github+README!+👋;+I'm+Shark+!;+👓希望在github+和你+一起分享+交流" />
 </h1>
 
-<h3 align="center">记录个人在大湾区徒步的线路 
+<h3 align="center">记录个人徒步线路 
     A personal log of hiking, camping, and car camping trips in the Greater Bay Area of China.</h3>
 
 <br/>

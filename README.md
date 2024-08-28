@@ -94,3 +94,7 @@ Skills: Markdown/Hiking/Camping/Car
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sharkchow)  
 
+<p align="center"><a href="https://sharkchow.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/deformed-bad-anatomy-disfigured-poorly-drawn-face-mutation-mutated-extra-limb-ugly-disgustin-554081771.png" /></a></p>
+
+<br />
+

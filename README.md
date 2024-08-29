@@ -141,7 +141,7 @@ Skills: Markdown/Hiking/Camping/Car
         player = new YT.Player('player', {
           height: '360',
           width: '640',
-          videoId: 'bEgmOKEJ6nkMLMzK',
+          videoId: 'jzwyfI-5zNQ',
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange

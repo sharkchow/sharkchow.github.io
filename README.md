@@ -121,11 +121,10 @@ Skills: Markdown/Hiking/Camping/Car
 </div>
 
 
-<!DOCTYPE html>
 <html>
   <body>
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
-    <div id="player"></div>
+    <div align="center"><id="player"></div>
 
     <script>
       // 2. This code loads the IFrame Player API code asynchronously.
@@ -142,7 +141,7 @@ Skills: Markdown/Hiking/Camping/Car
         player = new YT.Player('player', {
           height: '360',
           width: '640',
-          videoId: 'M7lc1UVf-VE',
+          videoId: 'bEgmOKEJ6nkMLMzK',
           events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange

@@ -124,7 +124,7 @@ Skills: Markdown/Hiking/Camping/Car
 <html>
   <body>
     <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
-    <div align="center"><id="player"></div>
+    <div id="player"></div>
 
     <script>
       // 2. This code loads the IFrame Player API code asynchronously.

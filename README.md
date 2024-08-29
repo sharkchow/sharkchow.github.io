@@ -117,7 +117,7 @@ Skills: Markdown/Hiking/Camping/Car
 </p>
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L1Laqzoih_o?si=12scymYznvw0L7qJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L1Laqzoih_o?si=12scymYznvw0L7qJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 

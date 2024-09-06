@@ -49,33 +49,7 @@
       }
       function stopVideo() {
         player.stopVideo();
-      }
-
-    
-    function onYouTubeIframeAPIReady() {
-  var player;
-  player = new YT.Player('player', {
-    width: 1920,
-    height: 1080,
-    videoId: 'TWN1Lr2CeVjaopcC',
-    events: {
-      'onReady': onPlayerReady,
-      'onPlaybackQualityChange': onPlayerPlaybackQualityChange,
-      'onStateChange': onPlayerStateChange,
-      'onError': onPlayerError
-    }
-  });
-}
-
-function onPlayerReady(event) {
-  event.target.setVolume(100);
-  event.target.playVideo();
-}
-
-      
+      }  
     </script>
   </body>
 </html>
-
-
-

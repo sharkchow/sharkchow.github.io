@@ -50,12 +50,9 @@
       function stopVideo() {
         player.stopVideo();
       }
-    </script>
-  </body>
-</html>
 
-<script>
-function onYouTubeIframeAPIReady() {
+    
+    function onYouTubeIframeAPIReady() {
   var player;
   player = new YT.Player('player', {
     width: 1920,
@@ -74,4 +71,11 @@ function onPlayerReady(event) {
   event.target.setVolume(100);
   event.target.playVideo();
 }
-</script>
+
+      
+    </script>
+  </body>
+</html>
+
+
+

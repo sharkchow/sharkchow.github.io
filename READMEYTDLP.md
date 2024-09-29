@@ -32,7 +32,9 @@
 . 身份验证选项： 与某些网站进行身份验证，例如 YouTube 或 Vimeo。您可以使用用户名和密码或 API 密钥等选项进行身份验证。
 . 后处理选项： 对已下载的视频执行各种后处理任务，例如合并或拆分视频文件、添加元数据或将视频转换为不同的格式。
 . 与 SponsorBlock 集成： 此功能使您能够通过 SponsorBlock API 标记/删除 YouTube 视频中的赞助商部分。
-2. 如何下載及安裝 YT-DLP?
+
+
+## 2. 如何下載及安裝 YT-DLP?
 前往 yt-dlp 官方 GitHub 存储库： https://github.com/yt-dlp/yt-dlp
 向下滚动页面，直到看到下载按钮。这是一个内部锚点链接，会带您到 https://github.com/yt-dlp/yt-dlp#installation。
 下载和安装 Yt-dlp
@@ -63,6 +65,7 @@ $ 苏都 chmod a+rx /我们/本地/箱柜/yt-dlp
 3.安装依赖项: FFmpeg 和 FFProbe
 在继续使用 yt-dlp 之前，强烈建议您安装 FFmpeg 和 FFprobe。还有其他关于网络、元数据和其他杂项的“可选”依赖项， 但 FFmpeg 和 FFprobe 几乎是“必需”的。
 
+
 FFmpeg 是处理视频、音频和其他多媒体文件的多媒体框架。yt-dlp 使用它执行各种多媒体操作，包括合并不同格式的视频或音频文件。没有它，yt-dlp 将无法合并所请求的格式。例如，您可能下载一个没有音频的 1080p 视频。 
 FFProbe 是随 FFmpeg 一起提供的命令行工具。FFProbe 用于分析和从多媒体文件（如视频和音频）中提取信息。Yt-dlp 需要使用 FFProbe 从正在下载的多媒体文件中提取元数据。这些元数据包括视频或音频编解码器、分辨率、持续时间、比特率和其他有关多媒体文件的技术细节等信息。如果没有 FFprobe，yt-dlp 将无法提取这些元数据，并且它的某些功能可能无法正常工作。
 下载并安装 Yt-dlp 的依赖项
@@ -78,8 +81,10 @@ $ 苏都 适切 安装 ffmpeg
 $ ffmpeg -version
 1
 $ ffmpeg -版本
+
 下载并安装 Yt-dlp 的依赖项
 FFprobe 安装？ 安装 FFmpeg 包时会自动安装 FFprobe。无需额外安装 FFprobe。要测试 FFprobe 是否已安装，请使用“ffprobe”命令：
+
 
 下载并安装 Yt-dlp 的依赖项
 b. 在 Windows 上安装 FFmpeg 和 FFprobe。
@@ -105,18 +110,15 @@ b. 在 Windows 上安装 FFmpeg 和 FFprobe。
 下载并安装 Yt-dlp 的依赖项
 现在，从 Windows 命令提示符中测试 FFmpeg 配置。打开“cmd”并键入“ffmpeg”。您应该会得到以下输出。
 
-准备好用Seedbox提升您的下载体验了吗？
-
-了解RapidSeedbox如何通过以下方式增强您的YT-DLP体验：快速且安全的下载，轻松流媒体播放，充足的存储空间和全天候访问
 
 ---
-今天就用RapidSeedbox升级您的下载体验！
-4. 如何在 Windows 和 Linux 中使用 YT-DLP。
+
+## 4. 如何在 Windows 和 Linux 中使用 YT-DLP。
 正如您可能已经知道的那样，yt-dlp 是一个命令行工具，因此要使用它（在 Windows 或 Linux 上），您将需要通过命令提示符或终端运行。如果您已经下载并安装了 yt-dlp 及其依赖项，请打开终端。 
 
 免责声明： 使用 yt-dlp 等工具从 YouTube 下载视频可能会侵犯内容创建者的服务条款、版权和知识产权。认识并遵守您所在司法管辖区有关下载和分发受版权保护的材料的适用法律和法规非常重要。本说明不构成法律建议，不应被视为法律建议。
 
-a. 如何在 Windows 中使用 yt-dlp? 
+## a. 如何在 Windows 中使用 yt-dlp? 
 yt-dlp 运行在命令行中，它没有前端 GUI。当您第一次在 cmd.exe 中运行它时（没有任何参数），您会注意到一个错误消息（例如以下消息）：“yt-dlp.exe：错误：您必须提供至少一个 URL”
 使用 Yt-dlp
 让我们继续访问帮助菜单。要查看所有选项的列表，请键入“yt-dlp --help”命令。类似以下菜单将显示在您的终端（或命令提示符）中：
@@ -135,11 +137,9 @@ yt-dlp -F --清单-格式 https://www.youtube.com/watch?v=1PmJeP-TphM
 现在，您可能想要下载格式为 (-f) 最佳质量视频和最佳音频（具有特定格式）的 YouTube 视频（即 https://www.youtube.com/watch?v=1PmJeP-TphM）；为此，请使用以下命令：
 yt-dlp -f “bestvideo&#91;ext=mp4]+bestaudio&#91;ext=m4a]” https://www.youtube.com/watch?v=1PmJeP-TphM
 
-1
-2
 yt-dlp -f "最佳视频&#91；绵延=mp4]+最佳音效&#91；绵延=m4a]" https://www.youtube.com/watch?v=1PmJeP-TphM
  
-使用 Yt-dlp
+## 使用 Yt-dlp
 要了解更多关于这些参数以及如何正确使用它们的信息，请使用“yt-dlp --help”命令。 
 就是这样；我们使用 yt-dlp 下载了两个 YouTube 视频。
 使用 Yt-dlp
@@ -152,7 +152,8 @@ yt-dlp -f 'bv*+ba' https://www.youtube.com/watch?v=1PmJeP-TphM
 1
 yt-dlp -f bv*+ba https://www.youtube.com/watch?v=1PmJeP-TphM
 使用 Yt-dlp
-注意： 如果您看到以下警告消息：“您已请求合并多个格式（视频和音频），但尚未安装 FFmpeg。这些格式不会被合并。”，这意味着您尚未安装 FFmpeg... 要了解如何安装 FFmpeg，请返回“安装 FFmpeg”部分。 
+## 注意： 如果您看到以下警告消息：“您已请求合并多个格式（视频和音频），但尚未安装 FFmpeg。这些格式不会被合并。”，这意味着您尚未安装 FFmpeg... 要了解如何安装 FFmpeg，请返回“安装 FFmpeg”部分。 
+
 
 现在，如果您想要为您的 YouTube 视频下载特定格式怎么办？一个有用的格式命令是“-F --list-formats”。例如，我们想列出视频上可用的格式 
 yt-dlp -F --list-formats https://www.youtube.com/watch?v=1PmJeP-TphM
@@ -167,7 +168,8 @@ yt-dlp -F --清单-格式 https://www.youtube.com/watch?v=9jw9W7kUBFk
 yt-dlp -f 'bv*&#91;height=720]+ba' https://www.youtube.com/watch?v=9jw9W7kUBFk
 1
 yt-dlp -f 'bv*[height=720]+ba' https://www.youtube.com/watch?v=9jw9W7kUBFk
-使用 Yt-dlp
+
+## 使用 Yt-dlp
 • 使用以上一组命令将帮助您更具体地指定您想要下载的 YouTube 视频格式。而不是下载最高的（例如 4K），您可以指定音频和视频格式。 
 另外，您会注意到此时没有显示 FFmpeg 警告消息。这是因为此时我们已经正确安装了 FFmpeg。 
 5. dlp 插件的高级用法.
@@ -207,10 +209,8 @@ sudo vi ~/.bashrc
 1
 苏都 vi ~/.bashrc
 或者
-
 sudo nano ~/.bashrc
-1
-苏都 纳米 ~/.bashrc
+
 • 输入您想要的 yt-dlp 的 bashrc 别名。例如：
 # yt-dlp aliases
 alias ydl='yt-dlp'
@@ -239,7 +239,7 @@ c. 使用 yt-dlp 将大量数据管理和下载到种子盒子中。
 
 这种组合可以实现快速高效的下载和轻松管理所有下载内容。
 
-6. yt-dlp的优点及缺点
+## 6. yt-dlp的优点及缺点
 虽然 yt-dlp 具有许多出色的功能和特点，使其成为最好的 YouTube 下载器之一，但它也有一些缺点需要您了解。 以下是使用 yt-dlp 的一些优点和缺点。
 
 a. 优点:
@@ -253,7 +253,8 @@ a. 优点:
 需要配置：从我们的逐步指南中，您可能已经注意到 yt-dlp 需要一些配置知识。要使用 yt-dlp，您必须学习配置行以获取所需的输出格式、音频质量或其他选项。 
 没有官方软件包： yt-dlp 没有适用于某些平台的官方软件包。如果您有技能和耐心从源代码构建或依赖第三方存储库，则没有官方软件包可能不会对您造成不利影响。 
 法律问题： 下载 YouTube 视频在技术上违反了其服务条款。因此，公司可能会起诉您。然而，许多用户仍然决定这样做，而公司也没有惩罚用户下载他们的视频的意愿。然而，了解下载受版权保护的材料的法律影响仍然非常重要。
-7. YT-DLP: 常见问题.
+
+## 7. YT-DLP: 常见问题.
 Q: 使用 yt-dlp 相对于使用 youtube-dl 有哪些优点？
 
 A：yt-dlp 提供了额外的功能和选项，这些在 youtube-dl 中不可用。它还有一个活跃的开发社区，确保漏洞得到快速修复和新功能得到添加。请查看我们之前的部分： 优缺点。.
@@ -286,7 +287,7 @@ Q: yt-dlp 是否在积极维护中？
 
 A：是的，yt-dlp 由一组专业开发人员积极维护，定期发布更新和漏洞修复。.
 
-8. 结语。
+## 8. 结语。
 总之，yt-dlp 是一个功能强大、功能丰富的视频下载器。它已成为受欢迎的 youtube-dl 插件的最佳替代品。凭借其广泛的选项列表和对各种格式和视频站点的支持，yt-dlp 成为领先的 YouTube 下载平台并不足为奇。
 
 如果您还没有尝试过 yt-dlp，我们鼓励您尝试一下。您很快就会发现为什么 yt-dlp 成为下载视频的首选。

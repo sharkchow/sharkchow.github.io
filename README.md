@@ -57,7 +57,7 @@
 [![October 10, 2024](https://ytcards.demolab.com/?id=xC2weEf8jMM&title=October+10%2C+2024&lang=en&timestamp=1728555818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "October 10, 2024")](https://www.youtube.com/watch?v=xC2weEf8jMM)
 [![To the sea 去海边吧！](https://ytcards.demolab.com/?id=e1xjZYH86hs&title=To+the+sea+%E5%8E%BB%E6%B5%B7%E8%BE%B9%E5%90%A7%EF%BC%81&lang=en&timestamp=1725000822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "To the sea 去海边吧！")](https://www.youtube.com/watch?v=e1xjZYH86hs)
 [![五一搭帐篷](https://ytcards.demolab.com/?id=Sjk-ho6hqnQ&title=%E4%BA%94%E4%B8%80%E6%90%AD%E5%B8%90%E7%AF%B7&lang=en&timestamp=1715157730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "五一搭帐篷")](https://www.youtube.com/watch?v=Sjk-ho6hqnQ)
-[![2024年5月3日](https://ytcards.demolab.com/?id=7SPhvuTyORk&title=2024%E5%B9%B45%E6%9C%883%E6%97%A5&lang=en&timestamp=1714676011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2024年5月3日")](https://www.youtube.com/watch?v=7SPhvuTyORk)
+[![海洋公园维修径](https://ytcards.demolab.com/?id=EYbEXIW3ksQ&title=%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9B%AD%E7%BB%B4%E4%BF%AE%E5%BE%84&lang=en&timestamp=1714381619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "海洋公园维修径")](https://www.youtube.com/watch?v=EYbEXIW3ksQ)
 <!-- END YOUTUBE-CARDS -->
 
 
